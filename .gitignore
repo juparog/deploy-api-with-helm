@@ -1,0 +1,11 @@
+# enviroment configs
+.env
+
+# dependencies
+node_modules/
+
+# builds
+dist/
+
+# vscode
+.vscode/
